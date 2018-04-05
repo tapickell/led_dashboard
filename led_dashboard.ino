@@ -1,5 +1,5 @@
 #include <gamma.h>
-#include <RGBmatrixPanel.h>kj
+#include <RGBmatrixPanel.h>
 
 #include <Adafruit_GFX.h>   // Core graphics library
 
